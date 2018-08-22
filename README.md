@@ -1,2 +1,3 @@
 # cloudplayer
-基于html5的音乐播放器
+基于h5的移动端音乐播放器
+![](cloudplayer.gif)
